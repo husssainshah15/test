@@ -8,13 +8,6 @@
     { "id": "3", "name": "Gardening", "releaseYear": "1999" },
     { "id": "4", "name": "Horse Riding ", "releaseYear": "2010" },
    
-  ],
-  "projects": [
-    { "id": "1", "name": "London Crime Animation Video", "project_year": "12/2/22" },
-    { "id": "2", "name": "Student Managment System", "project_year": "13/4/22" },
-    { "id": "3", "name": "Jacked Nutririon -WordPress ", "project_year": "17/5/22" },
-    { "id": "4", "name": "Java Fx", "project_year": "29/7/21" },
-    
   ]
     
 }
