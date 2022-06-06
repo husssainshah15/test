@@ -14,5 +14,5 @@
     { "id": "3000", "title": "The Matrix", "releaseYear": "1999" },
     { "id": "4000", "title": "Inception", "releaseYear": "2010" },
     { "id": "5000", "title": "Interstellar", "releaseYear": "2014" }
-  
+    ]
 }
