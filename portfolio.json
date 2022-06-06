@@ -3,11 +3,19 @@
   "description": "My basic information",
  
   "hobbies": [
-    { "id": "1", "name": "Driving", "releaseYear": "1977" },
-    { "id": "2", "name": "Gaming", "releaseYear": "1985" },
-    { "id": "3", "name": "Gardening", "releaseYear": "1999" },
-    { "id": "4", "name": "Horse Riding ", "releaseYear": "2010" }
+    { "id": "1", "name": "Driving" },
+    { "id": "2", "name": "Gaming" },
+    { "id": "3", "name": "Gardening" },
+    { "id": "4", "name": "Horse Riding " }
+   
+  ],
+  "projects": [
+    { "id": "1", "name": "java fx", "releaseYear": "1977" },
+    { "id": "2", "name": "London Bank Crime animated report", "releaseYear": "1985" },
+    { "id": "3", "name": "AfterEffects", "releaseYear": "1999" },
+    { "id": "4", "name": "Adobe PS ", "releaseYear": "2010" }
    
   ]
+  
     
 }
